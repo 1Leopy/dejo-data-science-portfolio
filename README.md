@@ -25,4 +25,4 @@ Satisfaction Analysis (EDA)
 
 ## 📜 Certifications - Introduction to Python - Intermediate Python  -
 ECX Data Science Certificate - Design Thinking -- FUCAP/Unilever 
-[See Projects](./certificates)
+[See Certificates](./certificates)
